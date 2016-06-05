@@ -1,3 +1,3 @@
 <?php
-echo "First comment update from github";
+echo "First comment";
 ?>
